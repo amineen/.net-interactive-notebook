@@ -1,0 +1,9 @@
+#!javascript
+
+console.log("Hello World!")
+
+#!javascript
+
+const persons = [{name:"Aaron", age:30}, {name: "Eric", age:33}];
+const me = persons[1];
+console.log(me);
